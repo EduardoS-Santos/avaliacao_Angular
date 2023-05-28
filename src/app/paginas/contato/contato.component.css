@@ -1,0 +1,56 @@
+.container-contato {
+  width: 100%;
+  background-color: #180aa8;
+  float: left;
+}
+
+.container-contato > h1 {
+  margin-left: 5%;
+  margin-top: 5%;
+  color: #f5ac28;
+}
+.container-contato > h2 {
+  margin-left: 5%;
+  margin-top: 5%;
+  color: #f5ac28;
+}
+
+.main-contato {
+  margin-left: 10%;
+  margin-bottom: 20px;
+}
+
+.contato {
+  width: 200px;
+  height: 40px;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+.block {
+  display: block;
+  float: left;
+}
+
+.nome {
+  width: 200px;
+  color: #333333;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+
+.coment {
+  width: 458px;
+  height: 200px;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+
+.btn-com {
+  width: 100px;
+  height: 30px;
+  border-radius: 6px;
+  border: none;
+}
